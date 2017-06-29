@@ -1,4 +1,4 @@
-# login-with-facebook-php
+# Login with Facebook using PHP
 This Repo consists of Skeleton Files required to get started with the implementation of Login With Facebook
 
 
